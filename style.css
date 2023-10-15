@@ -1,0 +1,35 @@
+#nav{
+    display: flex;
+    /* background-color: aqua; */
+    background-color: #333;
+    justify-content: space-between;
+    color: black;
+
+   /* size: 8px;  */
+}
+
+
+
+#Logo{
+    justify-content: center;
+    color: white;
+    size: 30px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+
+
+body{
+    /* background-color: black; */
+    background: black;
+}
+img1:hover{
+    content: "hello";
+}
+
+img:hover{
+    background: black;
+    opacity: 60%;
+}
+
